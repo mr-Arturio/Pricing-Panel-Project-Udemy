@@ -1,0 +1,19 @@
+{
+  "name": "pricing-panel-project-udemy",
+  "version": "1.0.0",
+  "description": "Udemy HTML/CSS Flexbox practice. Pricing Panel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr-Arturio/Pricing-Panel-Project-Udemy.git"
+  },
+  "author": "Artur T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mr-Arturio/Pricing-Panel-Project-Udemy/issues"
+  },
+  "homepage": "https://github.com/mr-Arturio/Pricing-Panel-Project-Udemy#readme"
+}
